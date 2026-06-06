@@ -6,6 +6,24 @@ This repository is for keeping the currently profitable BTCUSD line isolated
 from multi-symbol experiments. It contains the Mac demo BTCUSD EAs, the Windows
 small-account BTCUSD variants, and the current lightweight BTCUSD model artifact.
 
+## Repository
+
+Local path:
+
+```text
+/Users/xww/Documents/mt5-btcusd
+```
+
+Remote:
+
+```text
+git@github.com:vevex2011/mt5-btcusd.git
+```
+
+The larger research workspace remains at `/Users/xww/Documents/mt5`. Shared data
+collection, PostgreSQL, dashboard, and non-BTC research stay there. BTCUSD
+production code and model artifacts should be maintained here first.
+
 ## Layout
 
 ```text
@@ -53,4 +71,3 @@ artifact used for the BTCUSD production line.
 `models/BTCUSD.recommendation.example.json` is a small example of the exported
 runtime recommendation shape. The live EA normally reads from the MT5 sandbox,
 not from this repository path.
-

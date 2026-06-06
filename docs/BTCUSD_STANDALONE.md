@@ -6,6 +6,22 @@ Keep BTCUSD isolated because it is currently the strongest live-performing
 symbol in the system. Other symbols and heavy EURUSD tick research should not
 change BTCUSD production behavior accidentally.
 
+## Repository Location
+
+```text
+/Users/xww/Documents/mt5-btcusd
+git@github.com:vevex2011/mt5-btcusd.git
+```
+
+The original multi-symbol workspace remains at:
+
+```text
+/Users/xww/Documents/mt5
+```
+
+Use the standalone repository for BTCUSD production maintenance. Use the larger
+workspace for shared data infrastructure, dashboard work, and non-BTC research.
+
 ## Maintenance Rule
 
 - Keep BTCUSD EA changes in this repository first.
@@ -59,4 +75,3 @@ For BTCUSD only:
 - `100 USD`: possible only as an aggressive small-account experiment.
 - `600-1000 USD`: more realistic minimum for unmodified Mac BTCUSD behavior.
 - `1000+ USD`: preferred minimum if both main and pending BTCUSD EAs are active.
-
