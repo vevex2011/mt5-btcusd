@@ -9,7 +9,7 @@ change BTCUSD production behavior accidentally.
 ## Repository Location
 
 ```text
-/Users/xww/Documents/mt5-btcusd
+/Users/xww/Documents/mt5/mt5-btcusd
 git@github.com:vevex2011/mt5-btcusd.git
 ```
 
@@ -19,8 +19,9 @@ The original multi-symbol workspace remains at:
 /Users/xww/Documents/mt5
 ```
 
-Use the standalone repository for BTCUSD production maintenance. Use the larger
-workspace for shared data infrastructure, dashboard work, and non-BTC research.
+Use this standalone repository for BTCUSD production maintenance. Use the
+larger workspace sibling directories for shared data infrastructure, dashboard
+work, and non-BTC research.
 
 ## Maintenance Rule
 

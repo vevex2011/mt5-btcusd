@@ -11,7 +11,7 @@ small-account BTCUSD variants, and the current lightweight BTCUSD model artifact
 Local path:
 
 ```text
-/Users/xww/Documents/mt5-btcusd
+/Users/xww/Documents/mt5/mt5-btcusd
 ```
 
 Remote:
@@ -20,9 +20,10 @@ Remote:
 git@github.com:vevex2011/mt5-btcusd.git
 ```
 
-The larger research workspace remains at `/Users/xww/Documents/mt5`. Shared data
-collection, PostgreSQL, dashboard, and non-BTC research stay there. BTCUSD
-production code and model artifacts should be maintained here first.
+The larger research workspace is also under `/Users/xww/Documents/mt5`. Shared
+data collection, PostgreSQL, dashboard, and non-BTC research stay in sibling
+directories. BTCUSD production code and model artifacts should be maintained in
+this standalone repository first.
 
 ## Layout
 
