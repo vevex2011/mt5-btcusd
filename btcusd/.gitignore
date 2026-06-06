@@ -1,0 +1,11 @@
+.DS_Store
+.artifacts/
+.vscode/
+.idea/
+*.ex5
+*.compile.log
+*.log
+*.bak
+*.swp
+
+telegram.info

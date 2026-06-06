@@ -1,0 +1,7 @@
+# Smoke replay for Strategy Tester. The prices mirror the latest live AI suggestion
+# shape: buy pullback plus buy breakout, then clear after the 4-hour TTL window.
+time,symbol,ttl_seconds,BUY_PULLBACK,BUY_BREAKOUT,BUY_BREAKOUT_TRIGGER,BUY_RETEST_ENTRY,SELL_PULLBACK,SELL_BREAKDOWN,SELL_BREAKDOWN_TRIGGER,SELL_RETEST_ENTRY
+2026.05.14 00:00:00,BTCUSD,14400,81040.00,82052.50,,,,,,
+2026.05.14 04:00:00,BTCUSD,14400,,,,,,,,
+2026.05.15 00:00:00,BTCUSD,14400,81040.00,82052.50,,,,,,
+2026.05.15 04:00:00,BTCUSD,14400,,,,,,,,

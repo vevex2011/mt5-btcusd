@@ -1,0 +1,15 @@
+{
+  "symbol": "BTCUSD",
+  "generated_at": 1778716800,
+  "expires_at": 1778717700,
+  "lines": {
+    "BUY_PULLBACK": 102350.0,
+    "BUY_BREAKOUT": 105200.0,
+    "BUY_BREAKOUT_TRIGGER": 105200.0,
+    "BUY_RETEST_ENTRY": 104400.0,
+    "SELL_PULLBACK": 107200.0,
+    "SELL_BREAKDOWN": 98500.0,
+    "SELL_BREAKDOWN_TRIGGER": 98500.0,
+    "SELL_RETEST_ENTRY": 99200.0
+  }
+}

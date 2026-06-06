@@ -1,0 +1,42 @@
+{
+  "symbol": "BTCUSD",
+  "server_time": 1778716800,
+  "server_time_text": "2026.05.14 12:00:00",
+  "source": "CodexPendingOrderEA_BTCUSD",
+  "bid": 102500.0,
+  "ask": 102510.0,
+  "last": 102505.0,
+  "spread_points": 1000,
+  "signal_timeframe": "PERIOD_M30",
+  "trade_cycle_minutes": 30,
+  "trend_timeframe": "PERIOD_H4",
+  "h4_bias": "BUY",
+  "h4_screenshot_file": "codex_btcusd_h4.png",
+  "h4_screenshot_timeframe": "PERIOD_H4",
+  "chart_line_timeframe": "PERIOD_D1",
+  "d1_ema_fast": 101900.0,
+  "d1_ema_slow": 100800.0,
+  "d1_atr": 2400.0,
+  "d1_last_closed": {
+    "time": 1778630400,
+    "open": 101200.0,
+    "high": 103800.0,
+    "low": 100900.0,
+    "close": 102600.0
+  },
+  "breakout_range": {
+    "lookback_bars": 8,
+    "high": 105000.0,
+    "low": 98500.0
+  },
+  "ea_reference_lines": {
+    "BUY_PULLBACK": 100560.0,
+    "BUY_BREAKOUT": 105120.0,
+    "BUY_BREAKOUT_TRIGGER": 105120.0,
+    "BUY_RETEST_ENTRY": 104280.0,
+    "SELL_PULLBACK": 102140.0,
+    "SELL_BREAKDOWN": 98380.0,
+    "SELL_BREAKDOWN_TRIGGER": 98380.0,
+    "SELL_RETEST_ENTRY": 99220.0
+  }
+}

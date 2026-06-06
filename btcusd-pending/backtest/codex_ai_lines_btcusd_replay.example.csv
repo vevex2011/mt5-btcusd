@@ -1,0 +1,6 @@
+# Copy this file to the MT5 MQL5/Files folder as codex_ai_lines_btcusd_replay.csv before running a strategy-tester replay.
+# time accepts either epoch seconds or MT5-style text like 2026.05.15 00:00:00.
+# ttl_seconds controls how long the row remains active. Empty line prices mean "clear current AI lines".
+time,symbol,ttl_seconds,BUY_PULLBACK,BUY_BREAKOUT,BUY_BREAKOUT_TRIGGER,BUY_RETEST_ENTRY,SELL_PULLBACK,SELL_BREAKDOWN,SELL_BREAKDOWN_TRIGGER,SELL_RETEST_ENTRY
+2026.05.15 00:00:00,BTCUSD,14400,81040.00,82052.50,,,,,,
+2026.05.15 04:00:00,BTCUSD,14400,,,,,,,,

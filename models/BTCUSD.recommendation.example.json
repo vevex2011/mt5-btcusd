@@ -1,0 +1,52 @@
+{
+  "generated_at": 1780707719,
+  "generated_at_utc": "2026-06-06T01:01:59Z",
+  "schema_version": 1,
+  "source": "edge-dashboard",
+  "symbol": "BTCUSD",
+  "symbols": {
+    "BTCUSD": {
+      "daily": {
+        "direction_confidence": 0.3888888888888889,
+        "frequency_bias": "LOW",
+        "predicted_direction": "BULL",
+        "predicted_range_atr": 0.8764670266646897,
+        "trading_date": "2026-05-25"
+      },
+      "deep_model": {
+        "best_action": "SELL",
+        "best_candle_time": "2026-06-06 04:01:00",
+        "best_confidence": 0.6253339800669615,
+        "best_direction": "SELL",
+        "best_estimated_cost_atr": 0.00546142596105161,
+        "best_net_expectancy_atr": 1.7698465692931955,
+        "best_net_win_rate": 0.8448782535684299,
+        "best_probability": 0.8126669900334808,
+        "best_rule_samples": 0,
+        "best_rule_score": 0.0,
+        "best_run_id": "691921f79b1fa971",
+        "best_source_model": "BTCUSD_PURE_PY_MLP",
+        "best_suggested_hold_bars": 8.0,
+        "best_suggested_stop_atr": 0.35,
+        "best_suggested_target_atr": 1.8,
+        "best_suggested_trail_distance_atr": 0.245,
+        "best_suggested_trail_start_atr": 0.8936
+      },
+      "direction_bias": "BUY",
+      "execution_plan": {
+        "cooldown_minutes": 120,
+        "estimated_cost_atr": 0.0055,
+        "hold_bars": 8,
+        "max_positions_per_direction": 1,
+        "net_expectancy_atr": 1.7698,
+        "risk_percent": 0.4676,
+        "stop_atr": 0.35,
+        "target_atr": 0.7888,
+        "trail_distance_atr": 0.245,
+        "trail_start_atr": 0.8936
+      },
+      "frequency_bias": "LOW",
+      "symbol": "BTCUSD"
+    }
+  }
+}

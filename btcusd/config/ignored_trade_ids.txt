@@ -1,0 +1,4 @@
+# Manual trades to exclude from future analysis.
+# Matches either deal_id or position_id in dealreport input.
+7900312800
+7900368625

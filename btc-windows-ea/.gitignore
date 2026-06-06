@@ -1,0 +1,5 @@
+*.local.ps1
+*.log
+*.ex5
+*.compile.log
+
